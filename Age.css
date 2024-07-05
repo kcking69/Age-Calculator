@@ -6,13 +6,12 @@
 
 .container {
   background: linear-gradient(90deg, rgb(124, 9, 255), rgb(54, 198, 255));
-  width: 100vw;
+  width: fit-content;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 6%;
   overflow: hidden;
 }
 
